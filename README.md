@@ -2,7 +2,7 @@
 
 A local CLI for evaluating coding agents against fixed programming tasks.
 
-The MVP is implemented in Go and starts with a small Go task suite. The runtime
+The MVP will be implemented in Go and starts with a small Go task suite. The runtime
 design keeps task execution, grading, and language profiles separate so that
 additional programming languages and execution backends can be added later.
 
